@@ -1,0 +1,53 @@
+:root {
+    background-color: lightgray;
+}
+#info {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+#content { 
+    text-align: center;
+    align-items: center; 
+    justify-content: center;
+}
+#menu {
+    height: 50px;
+    width: 130px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+
+#contact {
+    height: 50px;
+    width: 130px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+
+#hours {
+    height: 50px;
+    width: 130px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+
+
+#mainImage {
+    height: 200px;
+    width: 200px;
+}
